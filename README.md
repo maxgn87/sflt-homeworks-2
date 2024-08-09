@@ -44,11 +44,11 @@
 ---
 
 ### Решение :
+![haproxy] (https://github.com/maxgn87/sflt-homeworks-2/blob/main/haproxy.cfg)
+![скрины] (https://github.com/maxgn87/sflt-homeworks-2/blob/main/img/1%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.jpg)
+(https://github.com/maxgn87/sflt-homeworks-2/blob/main/img/1_1%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.jpg)
 
-
-
-
-
+---
 
 
 ### Задание 2
@@ -58,3 +58,9 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
 ---
+
+### Решение :
+![haproxy] (https://github.com/maxgn87/sflt-homeworks-2/blob/main/haproxy_2%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.cfg)
+![screen] (https://github.com/maxgn87/sflt-homeworks-2/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.jpg) 
+
+
